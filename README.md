@@ -1,7 +1,7 @@
 ### Introduction
 - 👋 Hi, I’m @HeartyHaven,
 - 👀 I’m interested in (Multi-modal) Large Language Models & eXplainable AI.
-- 🌱 I’m currently at IDC-Lab of HUST.
+- 🌱 I’m currently a research intern at MINE Lab,University of Notre Dame.
 - 💞️ I’m looking to collaborate on any open-source LLM,MLLM and XAI project.
 - 📫 Contact me at gaolang1643@hust.edu.cn
 
